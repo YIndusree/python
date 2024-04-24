@@ -1,0 +1,19 @@
+a=b=c=d=55
+print(c)
+x,y,z=10,20.5,'mango'
+print(y)
+
+a1="python is"
+b1=" awesome"
+print(a1+b1)
+
+a2,b2="10","20"
+c2="30"
+d2=a2+b2+c2
+print(d2)
+
+a2=50
+print('my age=',a2)
+
+name1=input('please enter your name:')
+print('hello\n',name1,'\nand welcome\n')
