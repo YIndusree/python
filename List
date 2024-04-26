@@ -1,0 +1,49 @@
+'''indu=[10,20,30,40,50]
+sum=0
+for i in indu:
+    sum+=i
+print(sum)'''
+
+
+'''indu=[10,25,37,40,57,65]
+sum=0
+for i in indu:
+    if i%10==7:
+       print(i)'''
+
+
+'''indu=[10,20,30,40,50,30,50]
+shree=[]
+for i in indu:
+    if i not in shree:         clearing duplications
+        shree.append(i)
+print(shree)'''
+
+
+'''indu=[10,20,30,40,50]
+shree=[60,70,80,90,100,20]
+for i in indu:
+    for j in shree:          printing same element
+        if i==j:
+            print(i)'''
+            
+            
+'''indu=(10,20,30)
+print(indu)
+print(type(indu))
+#or
+
+shree=tuple([40,50,60])
+print(shree)
+print(type(shree))
+#or
+
+iinndduu=list([70,80,90])
+print(iinndduu)
+print(type(iinndduu))'''
+
+
+
+
+        
+
