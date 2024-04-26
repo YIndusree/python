@@ -1,0 +1,24 @@
+'''numbers=[10,20,30,40,50]
+
+doubled_numbers=[num * 2 for num in numbers]
+print(doubled_numbers)
+
+
+numbers=[10,20,30,40,50]
+square_numbers = []
+for num in numbers:
+    square_numbers.append(num * num)
+print(square_numbers)'''
+ 
+#create a new list using list comprehension
+'''num=[10,20,30,40,50]
+sq_num=[n * n for n in num]
+print(sq_num)'''
+
+word = "indu"
+vowels = "aeiou"
+
+result = [char for char in word if char in vowels]
+print(result) 
+
+
