@@ -1,0 +1,10 @@
+print("hello")
+print("hi")
+print()
+print("in")
+
+
+print('25','12','224',sep='-')
+print('tested by',end=' ')
+print('indu',end=' ')
+print('and shree')
