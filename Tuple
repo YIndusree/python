@@ -1,0 +1,10 @@
+induu=(10,20,30)
+shree=(40,50,60)
+uma=induu+shree
+print(uma)
+print(type(uma))
+
+print(len(uma))
+print(max(uma))
+print(min(uma))
+print(uma[1])
