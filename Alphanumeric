@@ -1,0 +1,12 @@
+n=input("Enter a string:")
+d=l=0
+for i in n:
+    if i.isdigit():
+        d=d+1
+    elif i.isalpha():
+        l=l+1
+    else:
+        print("Neither a number nor a character")
+
+print("Letters",l)
+print("Digits",d)
